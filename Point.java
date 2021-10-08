@@ -7,5 +7,5 @@ public class Point {
 	public int y1, y2;
 	public int p1, p2;
 	public int q1, q2;
-
+	public int line;
 }
